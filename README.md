@@ -14,6 +14,8 @@ Specifically, this is the code for Figure 2B.
 It is also used for the following from the Supplemental Note: tables
 1, 2, 3, and 4, and figures 6, 8, and 9.
 
+[![DOI](https://zenodo.org/badge/1171929400.svg)](https://doi.org/10.5281/zenodo.18853633)
+
 Install everything in `requirements.txt` before starting.
 
 # find-largest-overlaps.py
